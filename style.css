@@ -19,7 +19,7 @@ html {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 15px;
   color: black;
-  text-align: left;
+  text-align: center;
   line-height: 20px;
   margin: 0px;
   padding: 0px;
@@ -82,12 +82,12 @@ h3 {
 }
 
 .card:hover {
-  box-shadow: 0 0 3px gray;
+  box-shadow: 0 0 3px rgb(77, 77, 77);
   transform: translate(0, -15px);
 }
 
 .card h2 {
-  color: gray;
+  color: rgb(46, 46, 46);
   line-height: 25px;
   font-size: 28px;
   margin-bottom: 15px;
